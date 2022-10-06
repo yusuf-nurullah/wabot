@@ -1,0 +1,18 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "ini adalah program chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "wabot"
+  },
+  "keywords": [
+    "wabot"
+  ],
+  "author": "yusuf",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.46.2"
+  }
+}
